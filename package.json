@@ -1,0 +1,25 @@
+{
+  "name": "alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranger33133/Alarm-clock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"http://ranger33133.github.io.alarm-clock/",
+  "bugs": {
+    "url": "https://github.com/ranger33133/Alarm-clock/issues"
+  },
+  "homepage": "https://github.com/ranger33133/Alarm-clock#readme"
+}
